@@ -1,1 +1,3 @@
 # analyzing-data-assingment-2-resit
+
+The analysis explored how various independent variables (like word count, FG, FE) influence the dependent variable, "kudos." Scatter plots showed weak trends, with "words" showing the most promise initially, but after analysis not anymore. R² values were very low, indicating poor model fit, and residuals were scattered with many outliers. The Shapiro-Wilk test showed the dependent variable was close to normal, while most independent variables (except "words") were normally distributed. FG emerged as the most reliable metric, though still limited. Overall, none of the variables were strong predictors of success, but combining FG with sentiment analysis could offer a better future model.
